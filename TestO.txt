@@ -1,0 +1,22 @@
+Percentage Gainers 
+These stocks show the greatest gains in terms of percentage changes, though this stat does not take trading volume into account.
+Portfolio Manager 
+A financial professional or group thereof who purchases and sells assets in a mutual fund, closed-end fund, or ETF (exchange-traded fund).
+Preferred Stock 
+These stocks grant the shareholders a stronger claim of ownership and company earnings than common stock.
+Price Target 
+This estimate of the future price level of a stock, futures contract, ETF, or commodity, is made by investment analysts and financial advisors.
+Price to Earnings Ratio (PE) 
+This stat compares the current price of each share to its earnings and is frequently used in determining the value of a stock and its issuing company. Some investors feel strongly about the PE ratio’s ability to accurately reflect the true value of a stock and advise investors against purchasing shares of stock with high PE ratios. Though the price of those stocks may point to good health, the PE ratio indicates they are actually overvalued.
+Price-Sales Ratio 
+This valuation allows investors to see to what degree a stock is accurately priced, by comparing stock prices to company revenue.
+Producer Price Index (PPI) 
+This weighted index of prices reflects the views of producers and wholesalers of that item. It is released monthly by the BLS (Bureau of Labor Statistics).
+Profit Margin 
+A commonly used stat, profit margin helps investors see the profitability of their trading activity.
+Put Option 
+This financial contract between buyer and seller gives the owner of the put the right (but not obligation) to sell 100 shares of a certain stock at an agreed price to the buyer before or on the expiration date.
+Put Option Volume 
+The number of put option contracts traded in a specific market with a certain amount of time.
+QQQ ETF 
+Also known as PowerShares QQQ, this is one of the most actively traded and commonly held ETFs (exchange-traded funds).

@@ -1,0 +1,181 @@
+Name: Buddy
+Date: 09/17/20
+Correct Answers: 8
+Terms you got wrong: 3
+List of terms and their definitions:
+
+Reverse Stock Split  - Also called a stock merge, this deliberate corporate action is made by a company that wants to reduce the number of outstanding shares while increasing the price per share proportionally.
+
+Special Dividends  - Cash payments made to shareholders that are separate from regularly paid dividends.
+
+Roth IRA  - An independent retirement account for individuals with unique features such as tax deferment; it’s a popular financial product for saving up for retirement. The growing wealth of the IRA (from both rising stock prices and cash flow from dividends) is not taxed until a person indicates they are ready to enter retirement and start withdrawing from the IRA.
+
+
+Name: Buddy
+Date: 09/17/20
+Correct Answers: 12
+Terms you got wrong: 68
+List of terms and their definitions:
+
+Direct Current (DC)  - An electric current that flows in only one direction.
+
+Ammeter - An instrument for measuring the flow of electrical current in amperes. Ammeters are always connected in series with the circuit to be tested.
+
+Wattmeter - The wattmeter is an instrument for measuring the electric power (or the supply rate of electrical energy) in watts of any given circuit.
+
+Diode  - A semiconductor device with two terminals, typically allowing the flow of current in one direction only. Diodes allow current to flow when the anode is positive in relation to the cathode.
+
+Apparent Power  - Measured in volt-ampers (VA). Apparent power is the product of the rms voltage and the rms current.
+
+Waveform  - A graphical representation ofelectrical cycles which shows the amount of variation in amplitude over some period of time.
+
+Impedance  - The measure of the opposition that a circuit presents to a current when a voltage is applied. Impedance extends the concept of resistance to AC circuits, and possesses both magnitude and phase, unlike resistance, which has only magnitude.
+
+Fuse  - A circuit interrupting device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level. To restore service, the fuse must be replaced using a similar fuse with the same size and rating after correcting the cause of failure.
+
+Inverter  - An apparatus that converts direct current into alternating current.
+
+Resistance  - The opposition to the passage of an electric current. Electrical resistance can be compared to the friction experienced by water when flowing through a pipe. Measured in ohms.
+
+Self Induction  - Voltage which occurs in a coil when there is a change of current.
+
+Solid State Circuit  - Electronic (integrated) circuits which utilize semiconductor devices such as transistors, diodes and silicon controlled rectifiers.
+
+Capacitance  - The ability of a body to store an electrical charge. Measured in farads as the ratio of the electric charge of the object (Q, measured in coulombs) to the voltage across the object (V, measured in volts).
+
+Ohm's Law  - The mathematical equation that explains the relationship between current, voltage, and resistance (V=IR).
+
+Current (I) - The flow of an electric charge through a conductor. An electric current can be compared to the flow of water in a pipe. Measured in amperes.
+
+Power  - The rate at which electrical energy is transferred by an electric circuit. Measured in Watts.
+
+Kilowatt-hour (kWh)  - The product of power in kW and time in hours. Equal to 1000 Watt-hours. For example, if a 100W light bulb is used for 4 hours, 0.4kWhs of energy will be used (100W x 1kW / 1000 Watts x 4 hours). Electrical energy is sold in units of kWh.
+
+Circuit Breaker  - An automatic device for stopping the flow of current in an electric circuit. To restore service, the circuit breaker must be reset (closed) after correcting the cause of the overload or failure. Circuit breakers are used in conjunction with protective relays to protect circuits from faults.
+
+Generator  - A device which converts mechanical energy into electrical energy.
+
+Alternating Current (AC)  - An electric current that reverses its direction many times a second at regular intervals.
+
+Volt-Ampere (VA)  - A unit of measure of apparent power. It is the product of the rms voltage and the rms current.
+
+Inductor  - A coil of wire wrapped around an iron core. The inductance is directly proportional to the number of turns in the coil.
+
+Watt (W)  - A unit of electrical power. One watt is equivalent to one joule per second, corresponding to the power in an electric circuit in which the potential difference is one volt and the current one ampere.
+
+Electromotive Force — (EMF)  - A difference in potential that tends to give rise to an electric current. Measured in volts.
+
+Dielectric constant  - A quantity measuring the ability of a substance to store electrical energy in an electric field.
+
+Series Circuit  - A circuit in which there is only one path for electricity to flow. All of the current in the circuit must flow through all of the loads.
+
+Reluctance  - The resistance that a magnetic circuit offers to lines of force in a magnetic field.
+
+Farad  - A unit of measure for capacitance. One farad is equal to one coulomb per volt.
+
+Relay  - An electrical coil switch that uses a small current to control a much larger current.
+
+Kilowatt (kW)  - Equal to 1000 watts.
+
+Voltmeter  - An instrument for measuring the force in volts of an electrical current. This is the difference of potential (voltage) between different points in an electrical circuit. Voltmeters have a high internal resistance are connected across (parallel to) the points where voltage is to be measured.
+
+Electron  - A tiny particle which rotates around the nucleus of an atom. It has a negative charge of electricity.
+
+Semiconductor  - A solid substance that has a conductivity between that of an insulator and that of most metals, either due to the addition of an impurity or because of temperature effects. Devices made of semiconductors, notably silicon, are essential components of most electronic circuits.
+
+Series-Parallel Circuit  - A circuit in which some of the circuit components are connected in series and others are connected in parallel.
+
+True Power  - Measured in Watts. The power manifested in tangible form such as electromagnetic radiation, acoustic waves, or mechanical phenomena. In a direct current (DC) circuit, or in an alternating current (AC) circuit whose impedance is a pure resistance, the voltage and current are in phase.
+
+Conductor  - Any material where electric current can flow freely. Conductive materials, such as metals, have a relatively low resistance. Copper and aluminum wire are the most common conductors.
+
+Volt (V)  - A unit measure of voltage. One volt is equal to the difference of potential that would drive one ampere of current against one ohm resistance.
+
+Load  - Anything which consumes electrical energy, such as lights, transformers, heaters and electric motors.
+
+Service  - The conductors and equipment used to deliver energy from the electrical supply system to the system being served.
+
+Dielectric strength  - The maximum electric field that a pure material can withstand under ideal conditions without breaking down (i.e., without experiencing failure of its insulating properties).
+
+Short Circuit  - When one part of an electric circuit comes in contact with another part of the same circuit, diverting the flow of current from its desired path.
+
+Reactive Power  - The portion of electricity that establishes and sustains the electric and magnetic fields of AC equipment. Exists in an AC circuit when the current and voltage are not in phase. Measured in VARS.
+
+Protective Relay  - A relay device designed to trip a circuit breaker when a fault is detected.
+
+Polarity  - A collective term applied to the positive (+) and negative ( - ) ends of a magnet or electrical mechanism such as a coil or battery.
+
+Cycle  - The change in an alternating electrical sine wave from zero to a positive peak to zero to a negative peak and back to zero. See Frequency.
+
+Ampere (A)  - A unit of measure for the intensity of an electric current flowing in a circuit. One ampere is equal to a current flow of one coulomb per second.
+
+Ground Fault Circuit Interrupters (GFCI)  - A device intended for the protection of personnel that functions to de-energize a circuit or portion thereof within an established period of time when a current to ground exceeds some predetermined value that is less than that required to operate the overcurrent protective device of the supply circuit.
+
+Inductance - The property of a conductor by which a change in current flowing through it induces (creates) a voltage (electromotive force) in both the conductor itself (self-inductance) and in any nearby conductors (mutual inductance). Measured in henry (H).
+
+Ferroresonance  - (nonlinear resonance) a type of resonance in electric circuits which occurs when a circuit containing a nonlinear inductance is fed from a source that has series capacitance, and the circuit is subjected to a disturbance such as opening of a switch. It can cause overvoltages and overcurrents in an electrical power system and can pose a risk to transmission and distribution equipment and to operational personnel.
+
+Voltage  - An electromotive force or "pressure" that causes electrons to flow and can be compared to water pressure which causes water to flow in a pipe. Measured in volts.
+
+Rotor  - The rotating part of an electrical machine such as a generator, motor, or alternator.
+
+Insulator  - Any material where electric current does not flow freely. Insulative materials, such as glass, rubber, air, and many plastics have a relatively high resistance. Insulators protect equipment and life from electric shock.
+
+Ampere-Hour (Ah)  - A unit of measure for battery capacity. It is obtained by multiplying the current (in amperes) by the time (in hours) during which current flows. For example, a battery which provides 5 amperes for 20 hours is said to deliver 100 ampere - hours.
+
+Variable Resistor  - A resistor that can beadjusted to different ranges of value.
+
+Power Factor - The ratio of the actual electrical power dissipated by an AC circuit to the product of the r.m.s. values of current and voltage. The difference between the two is caused by reactance in the circuit and represents power that does no useful work.
+
+Ohmmeter  - An instrument for measuring the resistance in ohms of an electrical circuit.
+
+Kilowatt-hour Meter  - A device used to measure electrical energy use.
+
+Henry  - A unit of measure for inductance. If the rate of change of current in a circuit is one ampere per second and the resulting electromotive force is one volt, then the inductance of the circuit is one henry.
+
+Parallel Circuit  - A circuit in which there are multiple paths for electricity to flow. Each load connected in a separate path receives the full circuit voltage, and the total circuit current is equal to the sum of the individual branch currents.
+
+Electrolyte  - Any substance which, in solution, is dissociated into ions and is thus made capable of conducting an electrical current. The sulfuric acid - water solution in a storage battery is an electrolyte.
+
+Electron theory  - The theory which explains the nature of electricity and the exchange of "free" electrons between atoms of a conductor. It is also used as one theory to explain direction of current flow in a circuit.
+
+Piezoelectricity  - Electric polarization in a substance (especially certain crystals) resulting from the application of mechanical stress (pressure).
+
+Open Circuit  - An open or open circuit occurs when a circuit is broken, such as by a broken wire or open switch, interrupting the flow of current through the circuit. It is analogous to a closed valve in a water system.
+
+Ground  - The reference point in an electrical circuit from which voltages are measured, a common return path for electric current, or a direct physical connection to the Earth.
+
+Transistor  - A semiconductor device with three connections, capable of amplification in addition to rectification.
+
+Load Rejection  - The condition in which there is a sudden load loss in the system which causes the generating equipment to be over-frequency. A load rejection test confirms that the system can withstand a sudden loss of load and return to normal operating conditions using its governor. Load banks are normally used for these tests as part of the commissioning process for electrical power systems.
+
+Resistor  - A device usually made of wire or carbon which presents a resistance to current flow.
+
+Demand  - The average value of power or related quantity over a specified period of time.
+
+
+Name: Buddy
+Date: 09/17/20
+Correct Answers: 2
+Terms you got wrong: 9
+List of terms and their definitions:
+
+52-Week Low  - The lowest prices of a stock at closing that occurs within the past 52 weeks. The data captured serves as a technical benchmark for predicting prices and assessing a stock’s value.
+
+Backdoor Roth IRA  - This strategy (not to be confused with a similarly named product) allows high-income earners to place their retirement savings into a tax-deferred Roth IRA.
+
+Average Daily Trade Volume - ADTV  - The number of trades for a particular security, divided by a specific number of days, will yield its ADTV, or average daily trading volume.
+
+Analyst Ratings Trading  - Analysts may suggest additional actions with ratings like “underperform” and “outperform” to give more nuance to their projections beyond “buy,” “sell,” and “hold.”
+
+52-Week High  - The highest closing prices of a given stock within the past 52 weeks are captured in this technical indicator to assess value and predict prices.
+
+Asset Allocation  - Balancing out the percentage of various asset classes (such as stocks, bonds, and cash) in your portfolio is called asset allocation; the goal is to minimize risk and maximize reward.
+
+12b-1 Fees - Service fees, marketing expenses, and distribution costs are covered by a mutual fund’s 12b-1 fee and limited to 1% annually.
+
+Arbitrage  - When a particular security or commodity trades on two different markets, investors can create a profit by leveraging the temporary price differences in each venue. This strategy has become a particularly popular method of making money with cryptocurrency, since the individual currencies may be traded on multiple markets, and its price may be different. Investors with an eye on the markets or serious foresight can buy low in one market, and sell high in another.
+
+Analyst Ratings  - These ratings from stock brokers and ratings agencies urge traders to “buy,” “sell,” or “hold,” and are determined by the projected performance of a stock and its current level of risk. Some serious investors often live and die (if only proverbially) by the words of their favorite analysts and will base their trading strategy on their expertise and insight—while others will only take their ratings with a grain of salt.
+
+

@@ -1,0 +1,22 @@
+Stochastic Momentum Index (SMI) 
+This index helps gauge momentum for a given security and is used in technical analysis as an alternative to stochastic oscillators.
+Stock Portfolio Tracker 
+An online stock trading tool that replaces manual spreadsheets and paper statements, providing minute-by-minute information on all the securities in a portfolio.
+Stock Split 
+This corporate action increases the number of outstanding shares by dividing each share.
+Stock Symbol 
+An abbreviation used to quickly identify publicly traded shares of stock, it may consist of numbers, letters, or even both.
+Stocks Increasing Dividends
+ Investors focused on stable income love dividend stocks that consistently up their payouts to shareholders.
+Stop Order 
+This trading order will execute a buy or sell action when a stock reaches a particular price.
+Straddles 
+This options trading strategy takes advantage of expected volatility, even if investors do not know which way the stock price will move.
+Strangles 
+This options trading strategy is predicated on anticipating price movements that move with conviction in one direction or another.
+Street Name 
+Investors holding securities in "street name" means their name will not be listed in company records.
+Strike Price 
+Also called the exercise price, this is the price at which a buyer of an option contract can exercise his option (right to buy or sell).
+Support Level 
+A technical metric of movement in terms of price, when an asset has reached a price floor.

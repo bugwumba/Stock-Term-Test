@@ -1,0 +1,22 @@
+12b-1 Fees
+Service fees, marketing expenses, and distribution costs are covered by a mutual fund’s 12b-1 fee and limited to 1% annually.
+52-Week High 
+The highest closing prices of a given stock within the past 52 weeks are captured in this technical indicator to assess value and predict prices.
+52-Week Low 
+The lowest prices of a stock at closing that occurs within the past 52 weeks. The data captured serves as a technical benchmark for predicting prices and assessing a stock’s value.
+Accumulation/Distribution 
+Investors see if traders are accumulating (buying) or distributing (selling) a particular stock by comparing its closing price to its high and low prices—then multiplying that by its volume.
+After-Hours Trading 
+Trading stocks after normal market hours through an electronic market, typically between 4:05 and 8:00 PM, is after-hours trading. With the advent of the internet and apps, many banks and brokerages now offer after-hours trading, and even pre-market trading, before the markets open. Some brokerages even offer trading 24/7, though executing trades can be more difficult, due to low trading activity.
+Analyst Ratings 
+These ratings from stock brokers and ratings agencies urge traders to “buy,” “sell,” or “hold,” and are determined by the projected performance of a stock and its current level of risk. Some serious investors often live and die (if only proverbially) by the words of their favorite analysts and will base their trading strategy on their expertise and insight—while others will only take their ratings with a grain of salt.
+Analyst Ratings Trading 
+Analysts may suggest additional actions with ratings like “underperform” and “outperform” to give more nuance to their projections beyond “buy,” “sell,” and “hold.”
+Arbitrage 
+When a particular security or commodity trades on two different markets, investors can create a profit by leveraging the temporary price differences in each venue. This strategy has become a particularly popular method of making money with cryptocurrency, since the individual currencies may be traded on multiple markets, and its price may be different. Investors with an eye on the markets or serious foresight can buy low in one market, and sell high in another.
+Asset Allocation 
+Balancing out the percentage of various asset classes (such as stocks, bonds, and cash) in your portfolio is called asset allocation; the goal is to minimize risk and maximize reward.
+Average Daily Trade Volume - ADTV 
+The number of trades for a particular security, divided by a specific number of days, will yield its ADTV, or average daily trading volume.
+Backdoor Roth IRA 
+This strategy (not to be confused with a similarly named product) allows high-income earners to place their retirement savings into a tax-deferred Roth IRA.

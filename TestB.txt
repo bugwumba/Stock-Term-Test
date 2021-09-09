@@ -1,0 +1,22 @@
+Back-End Load 
+When investors sell their shares in a mutual fund, they pay this sales commission.
+Balance Sheet
+An accounting of a company’s assets, liabilities (debt), and the capital it receives from shareholders.
+Balanced Fund 
+A mutual fund with a mixture of stocks, commodities, and/or bonds.
+Bar Chart 
+This price evaluation tool gives a visual representation of a particular security’s change in price over time.
+Bear Market
+When prices in the market have declined by 20% or more during the last two months or beyond, this is called a Bear Market. It’s common for pessimism, fear, and other negative sentiments from investors to accompany a bear market, and even fuel its downward spiral. Cyclical bear markets can last from a few weeks to a few years, while secular bear markets can last 1-2 decades
+Beige Book 
+Published 8 times annually, this index is a prominent indicator of the US Economy.
+Beta 
+This measurement tracks the relative volatility of a given security in comparison to a particular standard.
+Bid-Ask Spread 
+Market makers facilitate orderly trading with this tool, which helps them buy and sell securities.
+Black Swan
+Black swan is used to describe an extremely rare and unpredictable event that triggers a perfect storm of catastrophic consequences.
+Blockchain
+This decentralized, digital ledger provides a secure record of digital currency transactions. Though blockchain started out as a way to keep a record of digital currency, the premise of decentralized record-keeping carries huge implications for how information is stored. Companies in all types of industries from health to supply chain are exploring the possibilities offered by a secure, decentralized accounting system.
+Blue-Chip Stocks 
+Known for the stability of the stock and the lasting quality of the company, blue-chip stocks tend to have market capitalizations of over $5 billion. These companies tend to be household brand names that have imprinted their name on the American conscious, such as Coca-Cola, Disney, and IBM. Many of these companies are also attractive to investors because they issue dividends.

@@ -1,0 +1,22 @@
+Bollinger Bands
+A way to analyze the relative stability or volatility of a particular security by showing its price activity with bandwidths that represent the space between its highs and lows.
+Bond 
+An organization such as a government or company can issue loans, represented by fixed-income bonds that offer the investor a relatively more stable return. After a certain period of time, established at the outset of the bond, it can be redeemed for a particular price. Government bonds are regarded as one of the most secure investment vehicles, since it is extremely unlikely that the U.S. government will default on its obligation to repay the loan.
+Book Value Per Share – BVPS 
+A ratio that compares common shareholder equity in a company to the volume of outstanding, unowned shares.
+Bull Market 
+Investors get buyers fever and continue to drive up prices, whenever a particular market or asset class rises in value; this is called a bull market. Though the term commonly relates to the stock market, it can also be applied to other asset classes such as bonds, currencies, commodities, and even real estate. Though stock prices always rise and fall, the upward trend indicated by the term “bull market” can last for months or years.
+Buy Rating 
+This rating from analysts predicts that the price of a particular security will probably move up over the next period of time.
+Buyback 
+Companies can actually purchase back their shares of stock in what is called a share repurchase program or stock buyback.
+Buy-Side Analysts 
+Institutional investors such as hedge, mutual, and pension funds employ buy-side analysts to do equity research.
+Call Option 
+Investors buy the right to purchase a specific number of shares of stock at an agreed price, without locking themselves into the obligation.
+Call Option Volume 
+The amount of buying and selling of a certain security is called its volume. Stocks, currencies, and other types of asset classes all have a trading volume.
+Candlestick 
+This technical indicator shows investors the opening and closing prices of a particular security during a certain amount of time.
+Capital Gains 
+The positive difference in value between an asset’s selling price and what the investor first paid for that asset is its capital gain.
